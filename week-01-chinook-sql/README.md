@@ -19,8 +19,8 @@ This project uses the Chinook music store database to perform SQL-based data ana
 - 🧑‍💼 Top-performing sales rep identified
 
 ## Sample Queries
-📂 [Browse SQL Queries](week-01-chinook-sql/queries/)
+📂 [Browse SQL Queries](queries/)
 
-📄 [View Insights Summary](week-01-chinook-sql/insights.md)
+📄 [View Insights Summary](insights.md)
 
 

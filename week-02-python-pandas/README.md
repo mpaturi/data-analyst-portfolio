@@ -7,4 +7,4 @@ This week focuses on building foundational Python skills and exploring the Panda
 - Intro to Pandas: DataFrames and Series
 - Loading, exploring, and cleaning datasets
 
-All practice notebooks are in the `(week-02-python-pandas/practice` folder.
+📂 [All practice notebooks are here](practice/)
