@@ -21,4 +21,5 @@ This project uses the Chinook music store database to perform SQL-based data ana
 ## Sample Queries
 See the [`queries/`](./queries/) folder for key SQL logic.
 
-📄 [View Insights Summary](insights.md)
+📄 [View Insights Summary](week-01-chinook-sql/insights.md)
+
